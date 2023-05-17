@@ -18,7 +18,7 @@ const person = {
   city: 'New York'
 };
 ```
-Using destructuring, extract the values of name and city from the person object and store them in variables called personName and personCity, respectively. Print the values of both variables.
+Using destructuring, extract the values of name and city from the person object and store them in variables called `personName` and `personCity`, respectively. Print the values of both variables.
 
 ### Problem 3
 You have an object called car with the following properties:
@@ -31,11 +31,11 @@ const car = {
 };
 ```
 
-Use Object.keys to extract the keys of the car object into an array called keysArray. Print the keysArray.
+Use `Object.keys` to extract the keys of the car object into an array called `keysArray`. Print the `keysArray`.
 
 
 ### Problem 4
-Using Object.values, extract the values from the car object defined in the previous problem and store them in an array called valuesArray. Print the valuesArray.
+Using `Object.values`, extract the values from the car object defined in the previous problem and store them in an array called `valuesArray`. Print the `valuesArray`.
 
 ### Problem 5
-Using Object.entries, extract both the keys and values from the car object defined earlier and store them in an array called entriesArray. Print the entriesArray.
+Using `Object.entries`, extract both the keys and values from the car object defined earlier and store them in an array called `entriesArray`. Print the `entriesArray`.
